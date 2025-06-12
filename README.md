@@ -1,8 +1,9 @@
 <!--Header-->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=5000&color=851c73&center=true&vCenter=true&width=1000&lines=Hey+there%2C+I'm+Shariful+Islam" alt="Typing SVG"/></a>
-
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=5000&color=851c73&center=true&vCenter=true&width=1000&lines=Hola%2C+soy+Emmanuel+Bail%C3%B3n+👋" alt="Typing SVG"/>
+</a>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Desarrollador+Full+Stack;Apasionado+por+la+IA;Estudiante+autodidacta+de+por+vida;De+Acapulco%2C+Guerrero%2C+M%C3%A9xico;Jugando+con+c%C3%B3digo+y+consola+%F0%9F%8E%AE%F0%9F%92%BB" alt="Typing SVG" /></a>
 </p>
 
 <!--Sobre mí-->
@@ -13,7 +14,7 @@
 <hr>
 
 ```
-Soy-embailon@github
+embailon@github
 -------------------------
 💻 Soy un desarrollador Full Stack autodidacta.
 📚 Lic. en Ciencias y Tecnologías de la Información por la Universidad UACyTI.
