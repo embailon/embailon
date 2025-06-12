@@ -22,7 +22,7 @@ embailon@github
 🔭 Actualmente trabajo en eCommerce.
 🌱 Estoy aprendiendo Python para Ciencia de Datos.
 🌟 Lenguajes principales: Python y JavaScript.
-🚩 Interesado en el desarrollo de apps con Inteligencia Artificial
+🚩 Interesado en el desarrollo de apps con Inteligencia Artificial.
 💖 En una relación complicada con la programación móvil.
 🎵 Amante del rap y el regional mexicano.
 ```
