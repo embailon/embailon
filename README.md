@@ -17,7 +17,7 @@
 embailon@github
 -------------------------
 💻 Soy un desarrollador Full Stack autodidacta.
-📚 Lic. en CTI por la Universidad UACyTI
+📚 Lic. en CTI por la Universidad UACyTI, México.
 📝 Tengo un gran interés en la IA e informática.
 🔭 Actualmente trabajo en eCommerce.
 🌱 Estoy aprendiendo Python para Ciencia de Datos.
