@@ -17,12 +17,12 @@
 embailon@github
 -------------------------
 💻 Soy un desarrollador Full Stack autodidacta.
-📚 Lic. en Ciencias y Tecnologías de la Información por la Universidad 
-📝 Tengo un gran interés en la inteligencia artificial e informática
+📚 Lic. en CTI por la Universidad UACyTI
+📝 Tengo un gran interés en la IA e informática.
 🔭 Actualmente trabajo en eCommerce.
 🌱 Estoy aprendiendo Python para Ciencia de Datos.
 🌟 Lenguajes principales: Python y JavaScript.
-🚩 Interesado en el desarrollo de aplicaciones con Inteligencia Artif
+🚩 Interesado en el desarrollo de apps con Inteligencia Artificial
 💖 En una relación complicada con la programación móvil.
 🎵 Amante del rap y el regional mexicano.
 ```
